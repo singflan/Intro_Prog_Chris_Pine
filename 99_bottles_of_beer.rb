@@ -16,4 +16,3 @@ while num_bottles > 0
   puts "Take 1 down, pass it around,\t#{num_bottles} #{word} of beer on the wall."
 end
 
-#Deaf Grandma
