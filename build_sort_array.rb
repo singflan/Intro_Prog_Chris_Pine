@@ -7,4 +7,7 @@ loop do
   break if word == ""
 end
 puts response_array
+puts "Sorted version:"
+sorted_array = response_array.sort
+puts sorted_array
 
